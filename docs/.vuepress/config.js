@@ -22,6 +22,7 @@ module.exports = {
                 ]
             }
         ],
+        sidebar: "auto",
         sidebarDepth: 2,
         
         displayAllHeaders: false
