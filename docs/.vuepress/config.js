@@ -10,7 +10,17 @@ module.exports = {
         lastUpdated: '最近更新',
         nav: [
             { text: '首页', link: '/' },
-            //{ text: '指南', link: '/zh/guide/' }
+            { text: '打卡记录', link: '/zh/punch-in.md' },
+            {
+                text: '快速跳转',
+                items: [
+                    { text: '我的博客', link: 'http://mg.meiflower.top/mb' },
+                    { text: '芒果卡片', link: 'http://mg.meiflower.top/card-admin/' },
+                    { text: '在线简历', link: 'http://mg.meiflower.top/mr' },
+                    { text: 'mango-kit工具集', link: 'http://mg.meiflower.top/mango-kit' },
+                    { text: '我的工作总结', link: 'http://mg.meiflower.top/workstay' }
+                ]
+            }
         ],
         sidebarDepth: 2,
         
