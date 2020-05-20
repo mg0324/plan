@@ -11,6 +11,7 @@ module.exports = {
         nav: [
             { text: '首页', link: '/' },
             { text: '打卡记录', link: '/zh/punch-in.md' },
+            { text: '任务列表', link: '/zh/task-list.md' },
             {
                 text: '快速跳转',
                 items: [
