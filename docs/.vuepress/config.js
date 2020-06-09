@@ -39,5 +39,13 @@ module.exports = {
                 moment.locale(lang)
                 return moment(timestamp).fromNow()
             }
+        },'@vuepress/pwa', {
+            serviceWorker: true,
+            //指向自定义组件
+            popupComponent: 'MySWUpdatePopup',
+            updatePopup: {
+                message: "新的风暴已经出现",
+                buttonText: "盘他"
+            }
         }]
 }
