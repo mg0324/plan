@@ -30,5 +30,14 @@ module.exports = {
     },
     markdown: {
         lineNumbers: true
-    }
+    },
+    plugins: ['@vuepress/medium-zoom','@vuepress/active-header-links','@vuepress/back-to-top','@vuepress/last-updated',
+        {
+            transformer: (timestamp, lang) => {
+                // 不要忘了安装 moment
+                const moment = require('moment')
+                moment.locale(lang)
+                return moment(timestamp).fromNow()
+            }
+        }]
 }
