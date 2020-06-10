@@ -11,11 +11,11 @@
 </p>
 
 <p>
-    <img :src="$withBase('/res/card01.png')" alt="">
+    <img :src="$withBase('/res/card1.png')" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/card02.png')" alt="">
+    <img :src="$withBase('/res/card2.png')" alt="">
 </p>
 
   
