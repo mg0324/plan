@@ -31,6 +31,13 @@ module.exports = {
     markdown: {
         lineNumbers: true
     },
+    configureWebpack: {
+        resolve: {
+            alias: {
+                '@alias': '/plan/'
+            }
+        }
+    },
     plugins: ['@vuepress/medium-zoom','@vuepress/active-header-links','@vuepress/back-to-top','@vuepress/last-updated',
         {
             transformer: (timestamp, lang) => {

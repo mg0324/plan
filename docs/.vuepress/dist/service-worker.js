@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "b6402917dd665a5a7c60fca0fe99acf1"
+    "revision": "66a1ea5252a57b5b45839ca419a39ccd"
   },
   {
     "url": "ahead.jpg",
@@ -42,7 +42,7 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/2.ee04bcfc.js",
+    "url": "assets/js/2.45ee2b13.js",
     "revision": "98ca40730d0e8c97b10c9dd37bdf16fa"
   },
   {
@@ -50,44 +50,56 @@ self.__precacheManifest = [
     "revision": "1c5fbe74f1918db01867963b629d3415"
   },
   {
-    "url": "assets/js/4.6318a2a7.js",
+    "url": "assets/js/4.e17319e5.js",
     "revision": "2b4780d2bc6a788dda583cc25c614a68"
   },
   {
-    "url": "assets/js/5.58e77e59.js",
-    "revision": "d89b5f6a55a7c7c5681631c530b1d31a"
+    "url": "assets/js/5.1f5af809.js",
+    "revision": "eb08158c37c20aa248510f0629dbbab4"
   },
   {
-    "url": "assets/js/6.78839b6d.js",
-    "revision": "697dd2672f20b1bd9df05869f89e8388"
+    "url": "assets/js/6.041e99d6.js",
+    "revision": "ddbbf763ee3e7a1c8a46a2bf11cb8644"
   },
   {
-    "url": "assets/js/7.124feb36.js",
-    "revision": "402500fa699239ca24677e4533cdac3f"
+    "url": "assets/js/7.87e83315.js",
+    "revision": "5e0ce44be3468282f1f66714506e9f6a"
   },
   {
     "url": "assets/js/8.7afca2fa.js",
     "revision": "7db422c6db3dbec638d878b11ff0cb8f"
   },
   {
-    "url": "assets/js/app.aa97edca.js",
-    "revision": "3bfe208834acbddfe93a84bd345706c6"
+    "url": "assets/js/app.99a9478e.js",
+    "revision": "3ee47a0a5a9cf670eea6f25c797c8f75"
   },
   {
     "url": "index.html",
-    "revision": "579a86a6dae4b98af4d345381c2e0304"
+    "revision": "ad3a3d1a3a8b2caee171298c1fbb45a5"
   },
   {
     "url": "mk.png",
     "revision": "69feb1ebdf6d0913c171ac8995496231"
   },
   {
+    "url": "res/card-xmind.png",
+    "revision": "4daa9e3158e937a86c13e6671c52ccc7"
+  },
+  {
+    "url": "res/card1.png",
+    "revision": "08effeec1cc6b83623952cfd4088e399"
+  },
+  {
+    "url": "res/card2.png",
+    "revision": "d9ef2759f18d4b8ee2c1355502a051ab"
+  },
+  {
     "url": "zh/punch-in.html",
-    "revision": "fada582959fb5b0fa9e443ceb229df88"
+    "revision": "580339f9e2249bbe0166be14fd5cb945"
   },
   {
     "url": "zh/task-list.html",
-    "revision": "23839d30ff35013741c8ab0180cb21e0"
+    "revision": "f091c2357f6ea3361e3fd1aef78b1a25"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});

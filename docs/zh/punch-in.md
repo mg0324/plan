@@ -1,5 +1,26 @@
 # 打卡记录
 
+## 2020-06-09
+
+星期二
+
+* 以思维导图方式细化芒果卡片v2.0的方案。
+
+<p>
+    <img :src="$withBase('/res/card-xmind.png')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/card01.png')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/card02.png')" alt="">
+</p>
+
+  
+
+
 ## 2020-06-08
 
 星期一
