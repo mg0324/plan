@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "f7709c573e45117db8f17b265f3664e5"
+    "revision": "5a8cf59b0f98a91d896ec600a078d327"
   },
   {
     "url": "ahead.jpg",
@@ -54,8 +54,8 @@ self.__precacheManifest = [
     "revision": "2b4780d2bc6a788dda583cc25c614a68"
   },
   {
-    "url": "assets/js/5.4f999277.js",
-    "revision": "58f01774dfe91b76ba3efea57b63100b"
+    "url": "assets/js/5.2ac1f01a.js",
+    "revision": "a73ae9aab915d834b97a983a57d240d5"
   },
   {
     "url": "assets/js/6.c68bf44b.js",
@@ -70,12 +70,12 @@ self.__precacheManifest = [
     "revision": "7db422c6db3dbec638d878b11ff0cb8f"
   },
   {
-    "url": "assets/js/app.e1f9c2e8.js",
-    "revision": "ef5c7be89a5e6f196a6980db8e520051"
+    "url": "assets/js/app.f62afdc9.js",
+    "revision": "6559c40083de275b3263a23efb602fdb"
   },
   {
     "url": "index.html",
-    "revision": "b5f44b91e49fb0a3b219f880e27397f4"
+    "revision": "a1124e48bdf52f2168804b9c851d97fe"
   },
   {
     "url": "mk.png",
@@ -99,11 +99,11 @@ self.__precacheManifest = [
   },
   {
     "url": "zh/punch-in.html",
-    "revision": "8a80a3241daf62cc1aa29130151fa2c0"
+    "revision": "6e8bcc6fa0a377c7416824519a03cc87"
   },
   {
     "url": "zh/task-list.html",
-    "revision": "5b8751cbd5123a2a01460f449f0f2b8d"
+    "revision": "33fca57fe1151cfbda8d177493ba430d"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
