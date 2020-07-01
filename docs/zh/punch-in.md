@@ -1,5 +1,42 @@
 # 打卡记录
 
+## 2020-07-01
+
+星期三
+
+* 完成芒果卡片点击查看卡片的眼睛图标后查看次数加1的功能。
+* 修复芒果卡片随机记忆页巴一张可能重复的问题。
+
+## 2020-06-30
+
+星期二
+
+* 完成芒果卡片上传卡片接口，/admin/card/post,参数为data=base64(ymal配置)，已更新到线上环境。
+
+  ```yaml
+  name: TCP三次握手
+  points:
+      - Client向Server发送SYN建立连接
+      - Server收到SYN后，向Client回应ACK响应,同时发送SYN建立连接
+      - Client收到SYN+ACK后，向Server回应ACK响应
+  tags:
+      -
+          name: TCP
+          color: green
+          isHex: 0
+  user:
+      phone: 18613073290
+      password: a09cfc28335a4c65b70709ff2554d78c
+  ```
+
+* 完成小程序端扫码录入卡片交互，已上线体验版v2.1.0。
+
+## 2020-06-29
+
+星期一
+
+* 完成芒果卡片扫码录入功能部分，进度40%。
+
 ## 2020-06-27
 
 星期六
