@@ -3,7 +3,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
-    title: '我的计划 | mangomei',
+    title: '我的计划 * MangoMei',
     description: '我的计划',
     themeConfig: {
         //logo: '/favicon.ico',
