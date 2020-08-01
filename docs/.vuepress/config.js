@@ -10,7 +10,13 @@ module.exports = {
         lastUpdated: '最近更新',
         nav: [
             { text: '首页', link: '/' },
-            { text: '打卡记录', link: '/zh/punch-in.md' },
+            {
+                text: '打卡记录',
+                items: [
+                    { text: '2020年4月-7月', link: '/zh/punch-in.md' },
+                    { text: '2020年8月-', link: '/zh/punch-in2.md' }
+                ]
+            },
             { text: '任务列表', link: '/zh/task-list.md' },
             {
                 text: '快速跳转',
