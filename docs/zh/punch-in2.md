@@ -6,7 +6,9 @@
 
 * 处理kafka并发消费出现数据库唯一字段值冲突的问题。
 
-  ![](/plan/res/kafka-mutil-art.png)
+  <p>
+        <img :src="$withBase('/res/kafka-mutil-art.png')" alt="">
+    </p> 
 
 * 下午2点开始技术分享沟通会，大刚讲的主题是`如何充分利用云服务器资源`。
 
