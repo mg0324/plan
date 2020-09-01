@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "276d2a0dd481a7377429dc5704c8f805"
+    "revision": "44300298595855695395ef0ad18a7769"
   },
   {
     "url": "ahead.jpg",
@@ -54,16 +54,16 @@ self.__precacheManifest = [
     "revision": "2b4780d2bc6a788dda583cc25c614a68"
   },
   {
-    "url": "assets/js/5.1df565a0.js",
-    "revision": "b09d25d038d936f0d4b700edd4278364"
+    "url": "assets/js/5.e393ed8f.js",
+    "revision": "fedf360856e880c32b2fb714a955a400"
   },
   {
-    "url": "assets/js/6.345bc9e9.js",
-    "revision": "5fadf09698c6a630606fcf12c44e3561"
+    "url": "assets/js/6.9eaf819d.js",
+    "revision": "59378142fc954f2368bd2cb10858a0cb"
   },
   {
-    "url": "assets/js/7.3fc89c9d.js",
-    "revision": "f3b28d4bcd353461ff8c4628b9046252"
+    "url": "assets/js/7.389699a1.js",
+    "revision": "199bcc8604de53b5cf22f26aebe5cc5b"
   },
   {
     "url": "assets/js/8.04f9010f.js",
@@ -74,12 +74,12 @@ self.__precacheManifest = [
     "revision": "64819ac4e26c1b86009d300e5f468f67"
   },
   {
-    "url": "assets/js/app.40ccdb71.js",
-    "revision": "ca6c7e58cbd0c7c0ece608d27256dfee"
+    "url": "assets/js/app.79418882.js",
+    "revision": "f7a561d6d04a238be64105c5261dc795"
   },
   {
     "url": "index.html",
-    "revision": "f64f7eebaf31a141d59e3755c1449acb"
+    "revision": "fc1de3739fd7b1415a72f7fdfeb59b5d"
   },
   {
     "url": "mk.png",
@@ -111,15 +111,15 @@ self.__precacheManifest = [
   },
   {
     "url": "zh/punch-in.html",
-    "revision": "788bb4bdd608bd44ff9b0711a7abcf00"
+    "revision": "86edbd73c0b291cff9e97ed9f47830cd"
   },
   {
     "url": "zh/punch-in2.html",
-    "revision": "c07269d787b6f2f64100735ecb9bfb9e"
+    "revision": "1e1d2fb6de282f19d35ad11046540e00"
   },
   {
     "url": "zh/task-list.html",
-    "revision": "d4bdc6a1ab91a55e4a62983e2777ab1d"
+    "revision": "fb7648412808252c9b52f6b34d47bf5c"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
