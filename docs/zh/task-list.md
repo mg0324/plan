@@ -64,4 +64,4 @@
 
 1. 整理自己的履历，类似[贾杨清的主页](http://daggerfs.com/)。
 2. 规划强化路线并整理相关资料，严格执行，提示自我能力。
-3. 给威哥的博客添加友情链接。http://blog.wayneww.top/blog/
+3. ~~给威哥的博客添加友情链接。http://blog.wayneww.top/blog/~~ 2020-10-16
