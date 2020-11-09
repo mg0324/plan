@@ -38,7 +38,8 @@ module.exports = {
         displayAllHeaders: false
     },
     markdown: {
-        lineNumbers: true
+        lineNumbers: true,
+        plugins: ['task-lists']
     },
     configureWebpack: {
         resolve: {
@@ -63,5 +64,5 @@ module.exports = {
                 message: "新的风暴已经出现",
                 buttonText: "盘他"
             }
-        },'task-lists']
+        }]
 }
