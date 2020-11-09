@@ -63,5 +63,5 @@ module.exports = {
                 message: "新的风暴已经出现",
                 buttonText: "盘他"
             }
-        }]
+        },'task-lists']
 }
