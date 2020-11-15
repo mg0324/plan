@@ -63,7 +63,10 @@
 - [ ] 开发页面填写卡片的ymal字符串，生成二维码
 
 ## 博客文章整理篇
-- [ ] springboot集成`logback`做日志切割，防止生产环境日志文件过大不易查看
+- [ ] springboot集成`logback`做日志切割，防止生产环境日志文件过大不易查看。
+- [x] idea + jdk8 + apache-tomcat-8.0.43编译启动tomcat源码，可做断点tomcat调试。
+- [ ] 树莓派之系统安装篇。
+- [ ] 
 
 ## 其他计划
 - [ ] 整理自己的履历，类似[贾杨清的主页](http://daggerfs.com/)。
