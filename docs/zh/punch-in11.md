@@ -6,15 +6,16 @@
 
 * 早上过来就把树莓派摄像头（发错货后寄过来的）装上了，简单拍照片测试了下，成功了，哈哈。
 
-* ```shell
-  root@raspberrypi:/opt/photos# raspistill -o new.jpg
-  root@raspberrypi:/opt/photos# ls
-  new.jpg
-  root@raspberrypi:/opt/photos# vcgencmd get_camera
-  supported=1 detected=1
-  ```
+```shell
+root@raspberrypi:/opt/photos# raspistill -o new.jpg
+root@raspberrypi:/opt/photos# ls
+new.jpg
+root@raspberrypi:/opt/photos# vcgencmd get_camera
+supported=1 detected=1
+```
 
-
+* 将`frpc`注册为windows上的服务自启动，基于nssm来做服务注册。
+* 下午妙优说她肚子疼，所以晚上过去珠光给她煮红糖鸡蛋汤喝。
 
 ## 2020-11-22
 
