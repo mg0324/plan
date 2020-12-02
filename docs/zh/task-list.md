@@ -63,6 +63,7 @@
 - [x] 开发页面填写卡片的ymal字符串，生成二维码。页面使用vue + element来做，左边是文本框，右边是生成的二维码。 2020-12-01完成 http://mg.meiflower.top/bqr/
 - [x] gitee博客刷新pages功能自动化，通过python脚本方式实现。 2020-11-15
 - [x] 卡片系统迭代任务以新增到gitee的isuss中，记得跟进。
+- [x] 利用python来实现card.db的sqlite3数据库邮件备份。
 
 ## 博客文章整理篇
 - [x] springboot集成`logback`做日志切割，防止生产环境日志文件过大不易查看。 2020-11-15
