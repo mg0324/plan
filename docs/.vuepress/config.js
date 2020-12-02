@@ -13,6 +13,7 @@ module.exports = {
             {
                 text: '打卡记录',
                 items: [
+                    { text: '2020年12月', link: '/zh/punch-in12.md' },
                     { text: '2020年11月', link: '/zh/punch-in11.md' },
                     { text: '2020年10月', link: '/zh/punch-in10.md' },
                     { text: '2020年9月', link: '/zh/punch-in09.md' },
