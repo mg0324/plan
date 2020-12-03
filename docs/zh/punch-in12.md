@@ -9,6 +9,11 @@
     <img :src="$withBase('/res/703/eat5.png')" alt="">
 </p>
 
+* 记录es索引模板卡片。
+* 刷到一个新的jvm调优工具`arthas`,阿里开源的阿尔萨斯。
+* 晚上回家刷了《斗罗大陆》，三哥终于见到了小舞，小舞越来越漂亮了呢。哈哈！
+* 继续学习`openresty`，并开始记录processon的`今天你openresty了吗？`的思维导图。
+
 ## 2020-12-01
 
 * 开发`vue+elementui`的单页面，后台基于`python flask`来实现接收界面数据渲染成二维码的base64字符串给前端。共同完成芒果卡片的界面数据转二维码的功能衔接。并且已经发布到服务器上，地址为 http://mg.meiflower.top/bqr/。
