@@ -1,5 +1,35 @@
 # 打卡记录
 
+## 2020-12-12
+
+星期六
+
+* 上午妙优去医院做检查，大刚10点起床，学习了python的pyecharts模块，了解了numpy，panda等基本使用方式。
+* 中午做了白切鸡，瘦肉炒火腿胡萝卜，吃了梨，刷了央视天团的《你好生活》。
+* 吃完饭午休，睡到了晚上。晚上做了洋葱黑椒猪排西蓝花鸡蛋面，还加了煎蛋，妙优说很好吃，都给吃完了。
+
+<p>
+    <img :src="$withBase('/res/703/eat17.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/703/eat18.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/703/eat19.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/703/eat20.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/703/eat21.jpg')" alt="">
+</p>
+
+
+
 ## 2020-12-11
 
 星期五
@@ -16,6 +46,10 @@
 
   <p>
       <img :src="$withBase('/res/703/eat17.jpg')" alt="">
+  </p>
+
+  <p>
+      <img :src="$withBase('/res/703/eat22.jpg')" alt="">
   </p>
 
   
