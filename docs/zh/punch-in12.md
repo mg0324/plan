@@ -1,5 +1,61 @@
 # 打卡记录
 
+## 2020-12-13
+
+星期天
+
+* 上午睡觉休息，一直到中午才起床。然后妙优做了三明治吃，计划去华侨城创意园。
+* 三点去了华侨城创意园，这里的人儿很文艺，很潮，都散发着一股张扬，都是个性人。
+* 五点多的时候，去喝了咖啡，我点的是卡布奇诺，妙优点的是浓缩咖啡。
+* 晚上妙优带我去吃《顺德佬》，点了扇贝粉丝，豆豉烧鸡，干炒牛河，xx三宝。
+* 吃饱喝足后，回到家后看了你好生活，9点20大刚收拾东西回五和了。
+
+<p>
+    <img :src="$withBase('/res/hqccyy/01.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/02.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/03.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/04.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/05.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/06.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/07.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/08.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/09.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/10.jpg')" alt="">
+</p>
+
+<p>
+    <img :src="$withBase('/res/hqccyy/11.jpg')" alt="">
+</p>
+
+
+
 ## 2020-12-12
 
 星期六
