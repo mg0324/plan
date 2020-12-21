@@ -12,19 +12,19 @@
 * 忙碌又不忙碌的一天，经历和妙优一起的经历，很开心，同时也很感恩。
 
 <p>
-    <img :src="$withBase('/res/703/1220/01.jpg')" alt="">
+    <img :src="$withBase('/res/1220/01.jpg')" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/1220/02.jpg')" alt="">
+    <img :src="$withBase('/res/1220/02.jpg')" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/1220/03.jpg')" alt="">
+    <img :src="$withBase('/res/1220/03.jpg')" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/1220/04.jpg')" alt="">
+    <img :src="$withBase('/res/1220/04.jpg')" alt="">
 </p>
 
 ## 2020-12-19
