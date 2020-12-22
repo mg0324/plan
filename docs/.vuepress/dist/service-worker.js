@@ -27,7 +27,7 @@ self.addEventListener('message', (event) => {
 self.__precacheManifest = [
   {
     "url": "404.html",
-    "revision": "9f15e958b4959ec614046a44dac72366"
+    "revision": "46b085d3647fcfef79272ce825fe992d"
   },
   {
     "url": "ahead.jpg",
@@ -42,16 +42,16 @@ self.__precacheManifest = [
     "revision": "83621669651b9a3d4bf64d1a670ad856"
   },
   {
-    "url": "assets/js/10.0916cff2.js",
-    "revision": "7bc94e77a1948bc7308cb45c5aeb0cb5"
+    "url": "assets/js/10.d6bb6d95.js",
+    "revision": "d8ff16d0f71bffb8957c887b9d5d76f3"
   },
   {
-    "url": "assets/js/11.cf1fba5e.js",
-    "revision": "9a3cb448128b2c8e8ae56d210511a612"
+    "url": "assets/js/11.e91a6fc7.js",
+    "revision": "bd1c0352ebf19cff6a90d7a67eb1e0ba"
   },
   {
-    "url": "assets/js/12.b135d1b9.js",
-    "revision": "014181f5a9fe4767fea348d14617c339"
+    "url": "assets/js/12.c9eb3ea6.js",
+    "revision": "72499bb7a7255062a95eb393f443164a"
   },
   {
     "url": "assets/js/13.b693d485.js",
@@ -70,32 +70,32 @@ self.__precacheManifest = [
     "revision": "2b4780d2bc6a788dda583cc25c614a68"
   },
   {
-    "url": "assets/js/5.177cdaf7.js",
-    "revision": "04a55ecceb00c3d0f0061bf0b2e0e8bc"
+    "url": "assets/js/5.b8e4a2a7.js",
+    "revision": "11954282aa015ac92007adf2541520be"
   },
   {
-    "url": "assets/js/6.f7137021.js",
-    "revision": "50a50b5ffac2ce6b2aad6a7c06805619"
+    "url": "assets/js/6.86837026.js",
+    "revision": "5fadf09698c6a630606fcf12c44e3561"
   },
   {
     "url": "assets/js/7.cfe128ef.js",
     "revision": "e7b9830a0e7904e21c7abf4bd347b821"
   },
   {
-    "url": "assets/js/8.b7a081a7.js",
-    "revision": "fb6194e9b422ccc62fdd1443260ca140"
+    "url": "assets/js/8.bc6c01cd.js",
+    "revision": "c7a70ab0dfb6d1c347b217a9dc583d51"
   },
   {
-    "url": "assets/js/9.046ebe86.js",
-    "revision": "a264c083d3b290eddc2ef664f9cc3c2f"
+    "url": "assets/js/9.e5da2cef.js",
+    "revision": "b4fa78b680b7008b2346d269ce35799d"
   },
   {
-    "url": "assets/js/app.ea01e238.js",
-    "revision": "58cc13aabb6c20df394b5c7310636e8e"
+    "url": "assets/js/app.17ddb027.js",
+    "revision": "48a9598e8ed6072268db21f2475dc6aa"
   },
   {
     "url": "index.html",
-    "revision": "08862b5c53a8da71babaa4aaa9e069fe"
+    "revision": "45742e6fbb86908c204886bb4b790c25"
   },
   {
     "url": "mk.png",
@@ -116,6 +116,22 @@ self.__precacheManifest = [
   {
     "url": "res/1220/04.jpg",
     "revision": "f17470335575f7c6ea7043aaba059b95"
+  },
+  {
+    "url": "res/1221/01.jpg",
+    "revision": "fc6d2f6e4a2f5b95b1c97fa51f491e13"
+  },
+  {
+    "url": "res/1221/02.jpg",
+    "revision": "a633302b0a44373ce473777ba584bf74"
+  },
+  {
+    "url": "res/1221/03.jpg",
+    "revision": "0cf06ece4f6d66780120c3cb325c2d7e"
+  },
+  {
+    "url": "res/1222/01.jpg",
+    "revision": "58da52958499bc1f4a478e58e418cf8a"
   },
   {
     "url": "res/703/09.jpg",
@@ -291,31 +307,31 @@ self.__precacheManifest = [
   },
   {
     "url": "zh/punch-in.html",
-    "revision": "71821bbeba717283ba3e8a7533c27609"
+    "revision": "56f0c4d0aacd23cb7b9f64bca560f64d"
   },
   {
     "url": "zh/punch-in09.html",
-    "revision": "42233c0d3aec0d15217fd9fdca076dac"
+    "revision": "d602a0d4457c6e3e4c20a2fb59d7c703"
   },
   {
     "url": "zh/punch-in10.html",
-    "revision": "8acb68c47e939752a13c766dfdd34842"
+    "revision": "1e5264ed697c69fdde702e54c9ccbd3b"
   },
   {
     "url": "zh/punch-in11.html",
-    "revision": "17a92b5b3cdfcc6f35d284912bbe80ea"
+    "revision": "c362df488a195142b8483fb5faa02b23"
   },
   {
     "url": "zh/punch-in12.html",
-    "revision": "162a09e0c95dc9670f561d6561e009f5"
+    "revision": "b530816bde1939125d871eb38c6ea917"
   },
   {
     "url": "zh/punch-in2.html",
-    "revision": "2efeaa14d6d551e8b245fe6211da2859"
+    "revision": "e8647b616199fb7e45dcfe1727459170"
   },
   {
     "url": "zh/task-list.html",
-    "revision": "220307cbf0530d34f279fccdefcc1bf8"
+    "revision": "9ad832b3298ae84cbb72183cc483c936"
   }
 ].concat(self.__precacheManifest || []);
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
