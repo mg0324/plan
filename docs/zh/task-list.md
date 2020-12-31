@@ -66,6 +66,7 @@
 - [x] gitee博客刷新pages功能自动化，通过python脚本方式实现。 2020-11-15
 - [x] 卡片系统迭代任务以新增到gitee的isuss中，记得跟进。
 - [x] 利用python来实现card.db的sqlite3数据库邮件备份。
+- [x] 后台java框架考虑集成swagger来做接口文档，参考 https://mp.weixin.qq.com/s/Su33QhBRKnzwuNgTdriaTA 2020-12-31
 
 ## 博客文章整理篇
 - [x] springboot集成`logback`做日志切割，防止生产环境日志文件过大不易查看。 2020-11-15
