@@ -65,5 +65,15 @@ module.exports = {
                 message: "新的风暴已经出现",
                 buttonText: "盘他"
             }
-        }]
+        },'vuepress-plugin-comment',{
+            choosen: 'valine',
+            // options选项中的所有参数，会传给Valine的配置
+            options: {
+                el: '#valine-vuepress-comment',
+                appId: '8C9I0p0NUxWloolzGzC2nwSm-gzGzoHsz',
+                appKey: 'aYOxPQ9MzgFSifkgAGdSheVP'
+            }
+        }
+
+    ]
 }
