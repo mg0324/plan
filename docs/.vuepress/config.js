@@ -13,6 +13,8 @@ module.exports = {
             {
                 text: '打卡记录',
                 items: [
+                    { text: '2021年02月', link: '/zh/2021/a02.md' },
+                    { text: '2021年01月', link: '/zh/2021/a01.md' },
                     { text: '2020年12月', link: '/zh/2020/punch-in12.md' },
                     { text: '2020年11月', link: '/zh/2020/punch-in11.md' },
                     { text: '2020年10月', link: '/zh/2020/punch-in10.md' },
@@ -21,7 +23,7 @@ module.exports = {
                     { text: '2020年7月-4月', link: '/zh/2020/punch-in.md' }   
                 ]
             },
-            { text: '任务列表', link: '/zh/2020/task-list.md' },
+            { text: '任务列表', link: '/zh/task-list.md' },
             {
                 text: '快速跳转',
                 items: [
