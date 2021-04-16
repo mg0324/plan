@@ -24,6 +24,7 @@ module.exports = {
                     { text: '2020年7月-4月', link: '/zh/2020/punch-in.md' }   
                 ]
             },
+            { text: '读书计划', link: '/zh/read-list.md' },
             { text: '任务列表', link: '/zh/task-list.md' },
             {
                 text: '快速跳转',
