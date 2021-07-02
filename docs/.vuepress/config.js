@@ -11,6 +11,12 @@ module.exports = {
         nav: [
             { text: '首页', link: '/' },
             {
+                text: '打卡表归档',
+                items: [
+                    { text: '2020年', link: '/zh/play/2020.md' },
+                ]
+            },
+            {
                 text: '打卡记录',
                 items: [
                     { text: '2021年05月', link: '/zh/2021/a05.md' },
@@ -31,8 +37,10 @@ module.exports = {
             {
                 text: '快速跳转',
                 items: [
+                    { text: '个人首页', link: 'http://mg.meiflower.top/' },
                     { text: '我的博客', link: 'http://mg.meiflower.top/mb' },
-                    { text: '芒果卡片', link: 'http://mg.meiflower.top/card-admin/' },
+                    { text: '芒果卡片扫码录入', link: 'http://mg.meiflower.top/cp/bqr' },
+                    { text: '芒果卡片点子队列', link: 'http://mg.meiflower.top/cp/keyqueue' },
                     { text: '在线简历', link: 'http://mg.meiflower.top/mr' },
                     { text: 'mango-kit工具集', link: 'http://mg.meiflower.top/mango-kit' },
                     { text: '我的工作总结', link: 'http://mg.meiflower.top/workstay' }

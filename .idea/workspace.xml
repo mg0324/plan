@@ -19,42 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae0174-e869-4a91-bb72-131d671a4d98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.71f2ea8b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.f2795cfa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.9120afa5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.b48df0d9.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.38a12dbf.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.04ab7050.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.823c6165.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.55e71d5e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.ddb36b72.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.989d837e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.28746898.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.8e352ced.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.2a650cbc.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.9bf41425.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.70ffc0ef.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in09.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in09.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in10.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in10.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in11.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in11.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in12.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in12.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in2.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a01.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a01.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a02.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a02.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a03.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a03.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a04.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a04.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a05.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a05.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a06.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a06.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/read-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/read-list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/task-list.html" beforeDir="false" afterPath="$PROJECT_DIR$/docs/.vuepress/dist/zh/task-list.html" afterDir="false" />
-    </list>
+    <list default="true" id="edae0174-e869-4a91-bb72-131d671a4d98" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,14 +31,10 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Dockerfile">
-          <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret lean-forward="true" />
-            </state>
-          </provider>
+          <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
     </leaf>
@@ -110,10 +71,10 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="y" value="23" />
-    <option name="width" value="1680" />
-    <option name="height" value="973" />
+    <option name="width" value="1920" />
+    <option name="height" value="1004" />
   </component>
   <component name="ProjectId" id="1ejI4STlIww9FblgctaohKHTM28" />
   <component name="ProjectLevelVcsManager">
@@ -124,7 +85,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -142,6 +102,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="ProjectViewState">
@@ -209,16 +170,17 @@
       <workItem from="1614909603205" duration="296000" />
       <workItem from="1616471893323" duration="139000" />
       <workItem from="1623649520961" duration="1792000" />
+      <workItem from="1624787333222" duration="24000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4971000" />
+    <option name="totallyTimeSpent" value="4995000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1680" height="974" extended-state="6" />
+    <frame x="0" y="23" width="1920" height="1004" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25885227" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17571884" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -232,7 +194,7 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.3725262" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" visible="true" weight="0.37232846" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
       <window_info anchor="bottom" id="Database Changes" order="10" />
@@ -374,11 +336,7 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Dockerfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
 </project>
