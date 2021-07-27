@@ -5,6 +5,7 @@
 - [ ] Java高并发程序设计（第二版）
 - [ ] [算法4](https://algs4.cs.princeton.edu/home/)
 - [ ] 图解设计模式
+- [x] 阿里巴巴Java开发手册
 
 
 ### 其他
