@@ -19,6 +19,10 @@ module.exports = {
             {
                 text: '打卡记录',
                 items: [
+                    { text: '2021年09月', link: '/zh/2021/a09.md' },
+                    { text: '2021年08月', link: '/zh/2021/a08.md' },
+                    { text: '2021年07月', link: '/zh/2021/a07.md' },
+                    { text: '2021年06月', link: '/zh/2021/a06.md' },
                     { text: '2021年05月', link: '/zh/2021/a05.md' },
                     { text: '2021年04月', link: '/zh/2021/a04.md' },
                     { text: '2021年03月', link: '/zh/2021/a03.md' },
