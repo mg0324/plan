@@ -1,7 +1,7 @@
 # 首页
 ## 家庭计划表
 <p>
-    <img :src="$withBase('/res/main/homeplan.png')" alt="">
+    <img :src="$withBase('/res/main/homeplan.jpg')" alt="">
 </p>
 
 ::: tip
