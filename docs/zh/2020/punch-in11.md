@@ -40,7 +40,7 @@
   <p>
       <img :src="$withBase('/res/703/eat1.png')" alt="">
   </p>
-
+  
   
 
 ## 2020-11-27
@@ -378,4 +378,3 @@ supported=1 detected=1
 <p>
     <img :src="$withBase('/res/dinner.jpg')" alt="">
 </p>
-
