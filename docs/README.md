@@ -1,4 +1,10 @@
 # 首页
+
+## 我的OKR
+<p>
+    <img :src="$withBase('/okr/okr1117.png')" alt="">
+</p>
+
 ## 家庭计划表
 <p>
     <img :src="$withBase('/res/main/homeplan.jpg')" alt="">

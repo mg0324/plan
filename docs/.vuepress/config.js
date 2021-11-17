@@ -16,9 +16,12 @@ module.exports = {
                     { text: '2020年', link: '/zh/play/2020.md' },
                 ]
             },
+            { text: '任务列表', link: '/zh/okr.md' },
             {
                 text: '打卡记录',
                 items: [
+                    { text: '2021年11月', link: '/zh/2021/a11.md' },
+                    { text: '2021年10月', link: '/zh/2021/a10.md' },
                     { text: '2021年09月', link: '/zh/2021/a09.md' },
                     { text: '2021年08月', link: '/zh/2021/a08.md' },
                     { text: '2021年07月', link: '/zh/2021/a07.md' },
