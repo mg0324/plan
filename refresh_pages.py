@@ -32,6 +32,8 @@ header = {
 }
 data = {'branch': 'master', 'build_directory': 'docs/.vuepress/dist','force_https': 'false','auto_update': 'false'}
 r = requests.post("https://gitee.com/mgang/plan/pages/rebuild",data,headers=header)
-print(r.text)
+#print(r.text)
 if r.status_code == 200:
     print("刷新成功")
+else:
+    print("发布失败"+r.text)
