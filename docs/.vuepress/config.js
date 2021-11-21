@@ -16,7 +16,7 @@ module.exports = {
                     { text: '2020年', link: '/zh/play/2020.md' },
                 ]
             },
-            { text: '任务列表', link: '/zh/okr.md' },
+            { text: '我的OKR', link: '/zh/okr.md' },
             {
                 text: '打卡记录',
                 items: [
