@@ -2,27 +2,29 @@
 ## 2021读书计划
 ### 技术提升
 - [x] redis设计与实现 - 2021-06
-
 - [ ] Java高并发程序设计（第二版）
-
 - [ ] [算法4](https://algs4.cs.princeton.edu/home/)
-
 - [ ] 图解设计模式
-
 - [x] 阿里巴巴Java开发手册 - 2021-07
-
 - [x] 重学Java设计模式 - 2021-08
-
-- [ ] spring cloud与Docker微服务架构实战
-
+- [ ] 周立 spring cloud与Docker微服务架构实战
 - [ ] kubernetes in Action中文版
-
+- [ ] 周立 docker开源书
+- [ ] 周立 kubernetes开源书
 - [x] Java new IO - 2021-09，10
 
 
 ### 樊登读书
 
 速看版，看樊登讲解书籍。
+
+#### 2021-12
+
+- [x] 刻意练习
+- [x] 中国文化课
+- [x] 道德经说什么
+- [x] 王立群读《史记》之文景之治
+- [x] 写给年轻人的中国智慧
 
 #### 2021-11
 
