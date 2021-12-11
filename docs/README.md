@@ -8,7 +8,7 @@
 
 ## 家庭计划表
 <p>
-    <img :src="$withBase('/home/homeplan.jpg')" alt="">
+    <img :src="$withBase('/home/homeplan.png')" alt="">
 </p>
 
 
