@@ -51,8 +51,7 @@ module.exports = {
                     { text: '芒果卡片扫码录入', link: 'http://mg.meiflower.top/cp/bqr' },
                     { text: '芒果卡片点子队列', link: 'http://mg.meiflower.top/cp/keyqueue' },
                     { text: '在线简历', link: 'http://mg.meiflower.top/mr' },
-                    { text: 'mango-kit工具集', link: 'http://mg.meiflower.top/mango-kit' },
-                    { text: '我的工作总结', link: 'http://mg.meiflower.top/workstay' }
+                    { text: 'mango-kit工具集', link: 'http://mg.meiflower.top/mango-kit' }
                 ]
             }
         ],
