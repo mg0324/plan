@@ -1,5 +1,47 @@
 # 生活菜谱
 
+## 炸酱面
+
+<p>
+    <img :src="$withBase('/food/zjm.jpeg')" alt="">
+</p>
+
+## 香菇炒鸡
+
+<p>
+    <img :src="$withBase('/food/xgcj.jpeg')" alt="">
+</p>
+
+## 土豆饼香菇鸡汤
+
+<p>
+    <img :src="$withBase('/food/tdbxgjt.jpeg')" alt="">
+</p>
+
+## 蛋挞
+
+<p>
+    <img :src="$withBase('/food/dt.jpeg')" alt="">
+</p>
+
+## 土豆鸡蛋饼
+
+<p>
+    <img :src="$withBase('/food/tdjdb.jpeg')" alt="">
+</p>
+
+## 包子
+
+<p>
+    <img :src="$withBase('/food/bz.jpeg')" alt="">
+</p>
+
+## 酸辣粉
+
+<p>
+    <img :src="$withBase('/food/slf.jpeg')" alt="">
+</p>
+
 ## 馄饨
 
 <p>
