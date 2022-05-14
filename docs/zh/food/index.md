@@ -3,8 +3,9 @@
 ## 炸酱面
 
 <p>
-    <img :src="$withBase('/food/zjm.jpeg')" alt="">
+    <img src="/res/food/zjm.jpeg" alt="">
 </p>
+
 
 ## 香菇炒鸡
 
