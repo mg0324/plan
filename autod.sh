@@ -1,4 +1,6 @@
 . ~/envs/python-mango-env.sh
+rm -rf docs/.vuepress/dist
+rm -rf docs/.vuepress/plan
 yarn build
 git add .
 git commit -m $1
