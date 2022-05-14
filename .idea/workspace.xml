@@ -19,425 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae0174-e869-4a91-bb72-131d671a4d98" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/init.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/blcf.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/bqjymc.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/bz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/cm.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/cybm.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/cybm2.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/dt.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/hd.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/jhcjd.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/jj.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/jtbz.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/jyj.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/mlt.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/qjrp.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/slf.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/tdbxgjt.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/tdgljf.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/tdjtb.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/xgcj.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/food/zjm.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/okr/okr-1117.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/okr/okr-1121.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/okr/okr-1128.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/okr/okr-1211.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/okr/okr-2022-01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/okr/okr-2022-03.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res.2021/01/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res.2021/01/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res.2021/11/k3s-rancher.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res.2021/11/k8s-dashboard.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res.2022/02/haoge.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res.2022/03/leetcode.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1220/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1220/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1220/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1220/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1221/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1221/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1221/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1222/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1223/01.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1224/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1225/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1225/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1226/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1226/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1226/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1226/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1226/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1229/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/1231/swagger.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/09.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/1217/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/1701.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat10.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat11.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat13.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat14.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat15.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat16.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat17.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat17.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat18.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat19.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat20.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat21.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat22.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat7.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/703/eat9.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/byy.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/card-db-2.0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/card-xmind.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/card1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/card2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/cy.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/ddd/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/develop/bqr.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/dinner.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/dinner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/08.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/hqccyy/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/kafka-mutli-art.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/lcf.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/love/tls01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/love/tls02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/main/homeplan.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/mango.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/my-dinner.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/my-rz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/nmjz.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/pghc.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/res/res/wmdjz.jpg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.ipynb_checkpoints/README-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/blcf.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/bqjymc.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/bz.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/cm.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/cybm.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/cybm2.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/dt.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/hd.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/jhcjd.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/jj.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/jtbz.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/jyj.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/mlt.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/qjrp.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/slf.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/tdbxgjt.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/tdgljf.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/tdjtb.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/xgcj.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/back/food/zjm.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.ipynb_checkpoints/README-checkpoint.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/ahead.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.cc301670.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/img/search.83621669.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.75ac6ef5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.531c19fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.a59f8819.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.28b0cb41.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.4d0ed21a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.7540cb15.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.7966af44.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.c082681f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/18.ef746a9a.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.56063d2e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.c8b48f9d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/20.23c5965e.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/21.ce401302.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/22.e2bbca0b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/23.e9bed8fa.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/24.f79a46c3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/25.b20efaa3.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/26.dd8ceaa0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/27.01ee47c2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/28.3c7c31a6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/29.c8cdaf48.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.e896a0a5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/30.b2029998.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/31.3441dbad.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/32.27355b05.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/33.89376d74.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/34.f5692321.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/35.98a63f1b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/36.020bb8b6.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.509cfac1.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.1e0a6c8f.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.28746898.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.ad0ab423.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.7202f28d.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.dd349cfe.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.9998da1b.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/favicon.ico" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/home/homeplan.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/mk.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/okr/okr-1117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/okr/okr-1121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/okr/okr-1128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/okr/okr-1211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/okr/okr-2022-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/okr/okr-2022-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res.2021/01/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res.2021/01/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res.2021/11/k3s-rancher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res.2021/11/k8s-dashboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res.2022/02/haoge.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res.2022/03/leetcode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1220/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1220/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1220/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1220/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1221/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1221/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1221/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1222/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1223/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1224/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1225/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1225/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1226/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1226/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1226/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1226/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1226/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1229/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/1231/swagger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/1217/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/1701.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/703/eat9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/byy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/card-db-2.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/card-xmind.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/card1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/card2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/cy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/ddd/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/develop/bqr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/dinner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/dinner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/hqccyy/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/kafka-mutli-art.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/lcf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/love/tls01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/love/tls02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/main/homeplan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/mango.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/my-dinner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/my-rz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/nmjz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/pghc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/res/wmdjz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in09.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in2.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a06.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a07.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a08.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a09.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a10.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a11.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a12.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a01.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a02.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a03.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a04.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a05.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/food/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/okr.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/play/2020.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/play/2021.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/play/2022.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/read-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/task-list.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/home/homeplan.png" beforeDir="false" afterPath="$PROJECT_DIR$/res/home/homeplan.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/okr/okr-1117.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/okr/okr-1121.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/okr/okr-1128.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/okr/okr-1211.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/okr/okr-2022-01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/okr/okr-2022-03.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res.2021/01/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res.2021/01/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res.2021/11/k3s-rancher.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res.2021/11/k8s-dashboard.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res.2022/02/haoge.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res.2022/03/leetcode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1220/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1220/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1220/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1220/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1221/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1221/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1221/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1222/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1223/01.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1224/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1225/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1225/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1226/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1226/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1226/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1226/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1226/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1229/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/1231/swagger.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/09.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/1217/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/1701.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat10.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat11.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat12.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat13.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat14.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat15.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat16.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat17.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat17.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat18.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat19.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat20.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat21.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat22.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat8.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/703/eat9.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/byy.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/card-db-2.0.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/card-xmind.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/card1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/card2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/cy.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/1.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/2.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/3.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/4.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/5.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/6.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/ddd/7.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/develop/bqr.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/dinner.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/dinner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/03.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/04.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/05.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/06.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/07.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/08.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/10.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/hqccyy/11.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/kafka-mutli-art.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/lcf.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/love/tls01.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/love/tls02.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/main/homeplan.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/mango.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/my-dinner.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/my-rz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/nmjz.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/pghc.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/.vuepress/public/res/wmdjz.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2020/punch-in.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2020/punch-in.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2020/punch-in09.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2020/punch-in09.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2020/punch-in10.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2020/punch-in10.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2020/punch-in11.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2020/punch-in11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2020/punch-in12.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2020/punch-in12.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2020/punch-in2.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2020/punch-in2.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2021/a01.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2021/a01.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2021/a11.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2021/a11.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2022/a02.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2022/a02.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/2022/a03.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/2022/a03.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/food/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/food/index.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/docs/zh/okr.md" beforeDir="false" afterPath="$PROJECT_DIR$/docs/zh/okr.md" afterDir="false" />
-    </list>
+    <list default="true" id="edae0174-e869-4a91-bb72-131d671a4d98" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -551,6 +133,31 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
+        <entry key="1">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$PROJECT_DIR$" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
         <entry key="MAIN">
           <value>
             <State>
@@ -559,6 +166,11 @@
           </value>
         </entry>
       </map>
+    </option>
+    <option name="OPEN_TABS">
+      <set>
+        <option value="1" />
+      </set>
     </option>
     <option name="RECENT_FILTERS">
       <map>
@@ -576,9 +188,21 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="100" y="123" width="1480" height="786" key="DiffContextDialog" timestamp="1652499359194">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="100" y="123" width="1480" height="786" key="DiffContextDialog/0.23.1680.986@0.23.1680.986" timestamp="1652499359194" />
+    <state x="100" y="123" width="1480" height="786" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog" timestamp="1652499359194">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="100" y="123" width="1480" height="786" key="com.intellij.history.integration.ui.views.DirectoryHistoryDialog/0.23.1680.986@0.23.1680.986" timestamp="1652499359194" />
     <state x="417" y="247" width="845" height="538" key="find.popup" timestamp="1652498514529">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
     <state x="417" y="247" width="845" height="538" key="find.popup/0.23.1680.986@0.23.1680.986" timestamp="1652498514529" />
+    <state x="570" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1652499340173">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="570" y="363" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.23.1680.986@0.23.1680.986" timestamp="1652499340173" />
   </component>
 </project>
