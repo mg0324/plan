@@ -19,7 +19,83 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="edae0174-e869-4a91-bb72-131d671a4d98" name="Default Changelist" comment="" />
+    <list default="true" id="edae0174-e869-4a91-bb72-131d671a4d98" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/ahead.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/css/0.styles.cc301670.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/img/search.83621669.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/10.434b2f1a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/11.af5e4fba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/12.6c3c4dba.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/13.ff40e81e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/14.48993ffc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/15.14065108.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/16.85c84d08.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/17.179dae3d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/18.8a2b7a7c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/19.f824d30c.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/2.c8b48f9d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/20.845ebcec.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/21.fab1a2d3.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/22.dad3274a.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/23.49684edb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/24.0468f13d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/25.a5434497.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/26.7cae231d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/27.f79c2670.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/28.89469f02.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/29.ec22aa85.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/3.e896a0a5.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/30.08424da1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/31.f531190e.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/32.29eca5b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/33.7a452adc.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/34.b7010961.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/35.4679bfbb.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/36.020bb8b6.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/4.509cfac1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/5.8d0357f4.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/6.ecc7927f.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/7.5b54bc24.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/8.35ab108d.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/9.c9ae0805.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/assets/js/app.537b8671.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/mk.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/service-worker.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2020/punch-in2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a06.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a07.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a08.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a09.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a10.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a11.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2021/a12.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a01.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a02.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a03.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a04.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/2022/a05.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/food/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/okr.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/play/2020.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/play/2021.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/play/2022.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/read-list.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/docs/.vuepress/dist/zh/task-list.html" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -188,6 +264,10 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
+    <state x="462" y="121" key="CommitChangelistDialog2" timestamp="1652499789107">
+      <screen x="0" y="23" width="1680" height="986" />
+    </state>
+    <state x="462" y="121" key="CommitChangelistDialog2/0.23.1680.986@0.23.1680.986" timestamp="1652499789107" />
     <state x="100" y="123" width="1480" height="786" key="DiffContextDialog" timestamp="1652499359194">
       <screen x="0" y="23" width="1680" height="986" />
     </state>
