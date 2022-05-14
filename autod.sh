@@ -6,9 +6,9 @@ git add .
 git commit -m $1
 git push
 mv docs/.vuepress/dist docs/.vuepress/plan
-ssh root@master 'rm -rf /opt/nginx/html/plan'
-scp -r docs/.vuepress/plan root@master:/opt/nginx/html
-echo '上传到txy success'
-ssh root@master 'docker restart nginx'
-echo '重启成功'
+#ssh root@master 'rm -rf /opt/nginx/html/plan'
+#scp -r docs/.vuepress/plan root@master:/opt/nginx/html
+#echo '上传到txy success'
+#ssh root@master 'docker restart nginx'
+#echo '重启成功'
 #python3 refresh_pages.py
