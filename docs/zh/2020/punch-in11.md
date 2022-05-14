@@ -9,7 +9,7 @@
 * 因为妙优的电脑出问题了，他同时让她把电源拆下来，我知道后就决定过去帮忙！顺便晚上做了洋葱鸡蛋西红柿绿葱刀削面，妙优吃了2小碗，我吃的好饱，很满足，看来还是做的比较成功！继续保持！
 
 <p>
-    <img :src="$withBase('/res/703/eat3.png')" alt="">
+    <img src="/res/res/703/eat3.png" alt="">
 </p>
 
 ## 2020-11-29
@@ -20,7 +20,7 @@
 * 总之就是忙着吃，忙着睡，还看了书，《男人来自火星，女人来自金星》。妙优说她看了2遍了，那好性格找到了，我也要看一遍。
 
 <p>
-    <img :src="$withBase('/res/703/eat2.png')" alt="">
+    <img src="/res/res/703/eat2.png" alt="">
 </p>
 
 ## 2020-11-28
@@ -38,7 +38,7 @@
 * 床弄好了后，我们商量下去吃，后面去吃了麻辣烫，然后晚上经过妙优同意就在妙这住下了。穿上了妙优的大T恤衫，还看了一点小李子的《了不起的盖茨比》，后面我眼睛太重了，就睡下了。
 
   <p>
-      <img :src="$withBase('/res/703/eat1.png')" alt="">
+      <img src="/res/res/703/eat1.png" alt="">
   </p>
   
   
@@ -119,31 +119,31 @@ supported=1 detected=1
 * 点了7个菜，喝的菊花茶，一下是妙拍的照片，这次对点都德改观不少。吃完后，一行3人去走路去地铁，然后路上碰到了海林（妙和她们有约，但是时间可能没对好，就没聚了）。地铁分开后，我和妙回了珠光，然后去超市买云吞皮和肉，晚上吃。充实的一天就这样过了，其中发生很多琐事。比如，云吞皮少了下午又买，妙优电脑死机硬关机后又出现卡死接着闻到一股焦味就关掉了。
 
   <p>
-      <img :src="$withBase('/res/ddd/1.jpg')" alt="">
+      <img src="/res/res/ddd/1.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/ddd/2.jpg')" alt="">
+      <img src="/res/res/ddd/2.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/ddd/3.jpg')" alt="">
+      <img src="/res/res/ddd/3.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/ddd/4.jpg')" alt="">
+      <img src="/res/res/ddd/4.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/ddd/5.jpg')" alt="">
+      <img src="/res/res/ddd/5.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/ddd/6.jpg')" alt="">
+      <img src="/res/res/ddd/6.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/ddd/7.jpg')" alt="">
+      <img src="/res/res/ddd/7.jpg" alt="">
   </p>
 
 ## 2020-11-21
@@ -179,7 +179,7 @@ supported=1 detected=1
 * 到珠光703后，和妙优一起做饭，炒了西蓝花🥦，煮饭的时候把腊肠切了放到电饭锅一起煮。非常好吃，很满足很幸福。哈哈！
 
   <p>
-      <img :src="$withBase('/res/lcf.png')" alt="">
+      <img src="/res/res/lcf.png" alt="">
   </p>
 
 ## 2020-11-18
@@ -191,7 +191,7 @@ supported=1 detected=1
 * 早上出门的时候，遇见娟子姐姐，她还给我带了柠檬鸡爪和小橘子，开心。
 
   <p>
-      <img :src="$withBase('/res/nmjz.png')" alt="">
+      <img src="/res/res/nmjz.png" alt="">
   </p>
 
 * 中午吃太饱了，吃的太好了，下午一直是饱的，所以晚上也没有吃，嘴巴里都是酸味和蒜味。（妙优说的）
@@ -266,7 +266,7 @@ supported=1 detected=1
 * 晚上在地铁吃了炒素粿，还有莲藕汤，爸爸和姐姐说看起来很好吃。
 
   <p>
-      <img :src="$withBase('/res/dinner.png')" alt="">
+      <img src="/res/res/dinner.png" alt="">
   </p>
 
 ## 2020-11-10
@@ -305,7 +305,7 @@ supported=1 detected=1
 * 打车回到703后，已经到了10点多了，休息了下后，10点40下楼坐地铁回家了。今天一天做了好多事情，但是没有搞学习。
 
   <p>
-      <img :src="$withBase('/res/pghc.png')" alt="">
+      <img src="/res/res/pghc.png" alt="">
   </p>
 
 ## 2020-11-07
@@ -376,5 +376,5 @@ supported=1 detected=1
 * 我们手牵着手散步，闲扯着以前。逛完后，回家坐的公交车，有点小难受，可能是晚上吃的太多了，以后不能太执着于光盘行动了。
 
 <p>
-    <img :src="$withBase('/res/dinner.jpg')" alt="">
+    <img src="/res/res/dinner.jpg" alt="">
 </p>

@@ -2,7 +2,7 @@
 
 ## 我的OKR
 <p>
-    <img :src="$withBase('/okr/okr-2022-03.png')" alt="">
+    <img src="/res/okr/okr-2022-03.png" alt="">
 </p>
 
 

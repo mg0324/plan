@@ -11,7 +11,7 @@
 * 晚上下班后和朋友一起跨年，来的有我和妙优，小强和丹丹，老左和张周，小灰灰和杨琼，老谭和勇爷；我们一同抓住这2020年的尾巴，迎接新的2021年。期间玩了摇骰子，6个人玩，每人5个骰子，出现13个几的时候，自己如果有4个（1点是任意点），就阔以往上加1个，反之就开上一家；玩了报数字，不能说3和7开头的和是3和7的倍数的数字，不能漏说数字的游戏；还玩了成语接龙等等。all in音乐餐吧还有抽奖的环节，我们这一桌运气很好，抽到了5个大礼包，2个娃娃，7箱酒，哈哈。
 
   <p>
-      <img :src="$withBase('/res/1231/swagger.png')" alt="">
+      <img src="/res/res/1231/swagger.png" alt="">
   </p>
 
 ## 2020-12-30
@@ -31,7 +31,7 @@
 * 吃饭看的《幸福三重奏》，我得好好享受着平静的美好，珍惜。
 
 <p>
-    <img :src="$withBase('/res/1229/01.jpg')" alt="">
+    <img src="/res/res/1229/01.jpg" alt="">
 </p>
 
 ## 2020-12-28
@@ -60,23 +60,23 @@
 * 妙优晚上参加公司聚餐，然后转西丽唱歌，好好享受哦。
 
 <p>
-    <img :src="$withBase('/res/1226/01.jpg')" alt="">
+    <img src="/res/res/1226/01.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1226/02.jpg')" alt="">
+    <img src="/res/res/1226/02.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1226/03.jpg')" alt="">
+    <img src="/res/res/1226/03.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1226/04.jpg')" alt="">
+    <img src="/res/res/1226/04.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1226/05.jpg')" alt="">
+    <img src="/res/res/1226/05.jpg" alt="">
 </p>
 
 
@@ -90,10 +90,10 @@
 * 大刚回来时买了蛋糕甜甜圈，草莓🍓，给妙吃。惊喜的是妙优给大刚准备了圣诞节礼物🎁，是一份面霜，说是总听见我说脸很干裂开了要。哈哈，刚宝宝是真的幸福了！大刚准备在元旦送妙一份礼物，这几天试试口风！
 
 <p>
-    <img :src="$withBase('/res/1225/01.jpg')" alt="">
+    <img src="/res/res/1225/01.jpg" alt="">
 </p>
 <p>
-    <img :src="$withBase('/res/1225/02.jpg')" alt="">
+    <img src="/res/res/1225/02.jpg" alt="">
 </p>
 
 
@@ -109,7 +109,7 @@
 * 快睡觉前，还给妙拍了照，美美哒！
 
 <p>
-    <img :src="$withBase('/res/1224/02.jpg')" alt="">
+    <img src="/res/res/1224/02.jpg" alt="">
 </p>
 
 ## 2020-12-23
@@ -123,7 +123,7 @@
 * 晚上还是过了零点才睡，这熬夜的坏习惯是真的要改，臭毛病了。寻求如何不熬夜的方法？！
 
   <p>
-      <img :src="$withBase('/res/1223/01.png')" alt="">
+      <img src="/res/res/1223/01.png" alt="">
   </p>
 
 ## 2020-12-22
@@ -137,7 +137,7 @@
 * 炒了鸡蛋面，买了个绿色的蛋糕还。
 
 <p>
-    <img :src="$withBase('/res/1222/01.jpg')" alt="">
+    <img src="/res/res/1222/01.jpg" alt="">
 </p>
 
 ## 2020-12-21
@@ -148,15 +148,15 @@
 * 今天冬至，晚上来703做饭。妙优先煮了汤圆，然后大刚做了土豆咖喱鸡块饭，好饱，好撑，哈哈，这个节日过的不错。
 
 <p>
-    <img :src="$withBase('/res/1221/01.jpg')" alt="">
+    <img src="/res/res/1221/01.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1221/02.jpg')" alt="">
+    <img src="/res/res/1221/02.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1221/03.jpg')" alt="">
+    <img src="/res/res/1221/03.jpg" alt="">
 </p>
 
 
@@ -173,19 +173,19 @@
 * 忙碌又不忙碌的一天，经历和妙优一起的经历，很开心，同时也很感恩。
 
 <p>
-    <img :src="$withBase('/res/1220/01.jpg')" alt="">
+    <img src="/res/res/1220/01.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1220/02.jpg')" alt="">
+    <img src="/res/res/1220/02.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1220/03.jpg')" alt="">
+    <img src="/res/res/1220/03.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/1220/04.jpg')" alt="">
+    <img src="/res/res/1220/04.jpg" alt="">
 </p>
 
 ## 2020-12-19
@@ -218,7 +218,7 @@
 * 晚上到珠光和妙优一起做饭，一起看综艺，一起捯饬机箱电源，一起入睡！（美中不足的是，电源装上了，但是开不了机，第二天听说是电源接线其中一个线接错了）
 
   <p>
-      <img :src="$withBase('/res/703/1217/01.jpg')" alt="">
+      <img src="/res/res/703/1217/01.jpg" alt="">
   </p>
 
 ## 2020-12-16
@@ -230,7 +230,7 @@
 * 晚上炒了刀削面，很好吃，很满足。妙优吃了一小碗，气氛贼好！
 
 <p>
-    <img :src="$withBase('/res/703/1701.jpg')" alt="">
+    <img src="/res/res/703/1701.jpg" alt="">
 </p>
 
 ## 2020-12-15
@@ -250,7 +250,7 @@
 * 外面飘着毛毛雨，深圳的冬天也是有了那么一丝丝冷。回到703后，我妙给我端出满满一碗面条，回到家就能吃上一口热乎的。这让我感觉到心里暖暖的，一定要好好珍惜，珍惜。
 
 <p>
-    <img :src="$withBase('/res/703/09.jpg')" alt="">
+    <img src="/res/res/703/09.jpg" alt="">
 </p>
 
 ## 2020-12-13
@@ -264,47 +264,47 @@
 * 吃饱喝足后，回到家后看了你好生活，9点20大刚收拾东西回五和了。
 
 <p>
-    <img :src="$withBase('/res/hqccyy/01.jpg')" alt="">
+    <img src="/res/res/hqccyy/01.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/02.jpg')" alt="">
+    <img src="/res/res/hqccyy/02.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/03.jpg')" alt="">
+    <img src="/res/res/hqccyy/03.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/04.jpg')" alt="">
+    <img src="/res/res/hqccyy/04.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/05.jpg')" alt="">
+    <img src="/res/res/hqccyy/05.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/06.jpg')" alt="">
+    <img src="/res/res/hqccyy/06.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/07.jpg')" alt="">
+    <img src="/res/res/hqccyy/07.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/08.jpg')" alt="">
+    <img src="/res/res/hqccyy/08.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/09.jpg')" alt="">
+    <img src="/res/res/hqccyy/09.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/10.jpg')" alt="">
+    <img src="/res/res/hqccyy/10.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/hqccyy/11.jpg')" alt="">
+    <img src="/res/res/hqccyy/11.jpg" alt="">
 </p>
 
 
@@ -318,23 +318,23 @@
 * 吃完饭午休，睡到了晚上。晚上做了洋葱黑椒猪排西蓝花鸡蛋面，还加了煎蛋，妙优说很好吃，都给吃完了。
 
 <p>
-    <img :src="$withBase('/res/703/eat17.jpg')" alt="">
+    <img src="/res/res/703/eat17.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/eat18.jpg')" alt="">
+    <img src="/res/res/703/eat18.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/eat19.jpg')" alt="">
+    <img src="/res/res/703/eat19.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/eat20.jpg')" alt="">
+    <img src="/res/res/703/eat20.jpg" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/eat21.jpg')" alt="">
+    <img src="/res/res/703/eat21.jpg" alt="">
 </p>
 
 
@@ -354,11 +354,11 @@
 * 第二天早上她约了去医院做一项体检，得早起。
 
   <p>
-      <img :src="$withBase('/res/703/eat17.jpg')" alt="">
+      <img src="/res/res/703/eat17.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/703/eat22.jpg')" alt="">
+      <img src="/res/res/703/eat22.jpg" alt="">
   </p>
 
   
@@ -374,15 +374,15 @@
 * 剪完头发后，做地铁去珠光陪妙优。有些累，去到后先用剪刀修了头发，然后洗澡睡觉。
 
 <p>
-    <img :src="$withBase('/res/703/eat13.png')" alt="">
+    <img src="/res/res/703/eat13.png" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/eat14.png')" alt="">
+    <img src="/res/res/703/eat14.png" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/703/eat15.png')" alt="">
+    <img src="/res/res/703/eat15.png" alt="">
 </p>
 
 ## 2020-12-09
@@ -396,7 +396,7 @@
 * 然后去超市买东西，晚上煮皮蛋瘦肉粥吃。路上的时候已经很累了，回到703后，还好找到了唱我是一只小鸭子的梗，才让气氛好一些了。
 
   <p>
-      <img :src="$withBase('/res/703/eat16.jpg')" alt="">
+      <img src="/res/res/703/eat16.jpg" alt="">
   </p>
 
   
@@ -419,7 +419,7 @@
 * 妙优下午4点请了假，先去做了核酸检测，然后回家做了饭，叫我过去吃。哈哈，很幸福，妙优辛苦了。
 
   <p>
-      <img :src="$withBase('/res/703/eat12.jpg')" alt="">
+      <img src="/res/res/703/eat12.jpg" alt="">
   </p>
 
 ## 2020-12-06
@@ -437,23 +437,23 @@
 * 晚上点了披萨，喝着汤，又是愉快充实的一天。
 
   <p>
-      <img :src="$withBase('/res/703/eat9.png')" alt="">
+      <img src="/res/res/703/eat9.png" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/703/eat10.png')" alt="">
+      <img src="/res/res/703/eat10.png" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/703/eat11.png')" alt="">
+      <img src="/res/res/703/eat11.png" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/love/tls01.jpg')" alt="">
+      <img src="/res/res/love/tls01.jpg" alt="">
   </p>
 
   <p>
-      <img :src="$withBase('/res/love/tls02.jpg')" alt="">
+      <img src="/res/res/love/tls02.jpg" alt="">
   </p>
 
 ## 2020-12-05
@@ -469,7 +469,7 @@
 * 晚上回来703，煮了排骨胡萝卜粥，炒了鸡蛋河粉，非常好吃，妙优吃了1碗半，大刚吃了3碗半。
 
   <p>
-      <img :src="$withBase('/res/703/eat8.jpg')" alt="">
+      <img src="/res/res/703/eat8.jpg" alt="">
   </p>
 
 ## 2020-12-04
@@ -479,7 +479,7 @@
 * 早上起来煮了粉丝吃。
 
 <p>
-    <img :src="$withBase('/res/703/eat7.png')" alt="">
+    <img src="/res/res/703/eat7.png" alt="">
 </p>
 
 * 下午折腾树莓派上的ubuntu给ssh自启动，尝试了各种方法不得生效，最后还是放弃了。呃呃呃呃呃呃！
@@ -494,7 +494,7 @@
 * 晚上去了妙优那，买了毛巾，做了饭，过上了小日子。哈哈！好好珍惜！如下图：
 
   <p>
-      <img :src="$withBase('/res/703/eat6.png')" alt="">
+      <img src="/res/res/703/eat6.png" alt="">
   </p>
 
 ## 2020-12-02
@@ -505,7 +505,7 @@
 * 利用`python`写脚本完成`card2.db`的邮件备份策略，防止数据丢失。
 
 <p>
-    <img :src="$withBase('/res/703/eat5.png')" alt="">
+    <img src="/res/res/703/eat5.png" alt="">
 </p>
 
 * 记录es索引模板卡片。
@@ -520,7 +520,7 @@
 * 开发`vue+elementui`的单页面，后台基于`python flask`来实现接收界面数据渲染成二维码的base64字符串给前端。共同完成芒果卡片的界面数据转二维码的功能衔接。并且已经发布到服务器上，地址为 http://mg.meiflower.top/bqr/。
 
 <p>
-    <img :src="$withBase('/res/develop/bqr.png')" alt="">
+    <img src="/res/res/develop/bqr.png" alt="">
 </p>
 
 * 下午妙优说她头晕，可能是衣服少了，所以晚上准备过去煮粥她吃。
@@ -528,7 +528,7 @@
 * 炒了2个菜，一个宫保鸡丁，一个杏鲍菇。吃饭的时候，一起刷《鹿鼎记》。
 
 <p>
-    <img :src="$withBase('/res/703/eat4.png')" alt="">
+    <img src="/res/res/703/eat4.png" alt="">
 </p>
 
 * 吃过饭后，刷完碗就到了10点30了，哎呀。经过商议后，决定暂住一晚。哈哈！！！

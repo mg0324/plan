@@ -85,7 +85,7 @@
 * 煮饺子，煮了慢慢2盘，妙优吃了第一个，对着我笑说有点闲，盐放多了。其实也还好，没有太闲，还是能吃的。大刚吃了约20个吧，很饱。吃完后就抱着妙优躺着休息，这样的时光显得特别的美好，真的很美好，对于我而言。
 
   <p>
-      <img :src="$withBase('/res/wmdjz.jpg')" alt="">
+      <img src="/res/res/wmdjz.jpg" alt="">
   </p>
 
 ## 2020-10-23
@@ -153,11 +153,11 @@
 * 晚上离开时，很不舍，抱着妙优舍不得放开。坐最后一班地铁，不留神到坂田才下车，走回泊寓，跟妙优说晚安，妙优还泡了个脚，羡慕啊。
 
   <p>
-      <img :src="$withBase('/res/my-rz.png')" alt="">
+      <img src="/res/res/my-rz.png" alt="">
   </p>
 
 <p>
-    <img :src="$withBase('/res/my-dinner.png')" alt="">
+    <img src="/res/res/my-dinner.png" alt="">
 </p>
 
 ## 2020-10-17
@@ -199,7 +199,7 @@
 * 总是管不住自己，频繁熬夜，恶心循环。下定决心一定要改变这种现状，定闹钟，强制打卡，相互监督。
 
   <p>
-      <img :src="$withBase('/res/byy.jpg')" alt="">
+      <img src="/res/res/byy.jpg" alt="">
   </p>
 
 * 晚上下班过去珠光，买了份双拼的饺子，葡萄和2个桃子，到妙那吃饭。

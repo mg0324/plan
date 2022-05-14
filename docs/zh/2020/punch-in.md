@@ -234,7 +234,7 @@
 * 完成芒果卡片2.0的数据库设计，并idea创建sqlite的数据库sql。
 
 <p>
-      <img :src="$withBase('/res/card-db-2.0.png')" alt="">
+      <img src="/res/res/card-db-2.0.png" alt="">
   </p> 
 
 ## 2020-06-23
@@ -287,7 +287,7 @@
 * 设计芒果图标，输出如下：（耗时2小时）
 
   <p>
-      <img :src="$withBase('/res/mango.png')" alt="">
+      <img src="/res/res/mango.png" alt="">
   </p>
 
 ## 2020-06-13
@@ -312,15 +312,15 @@
 * 以思维导图方式细化芒果卡片v2.0的方案。
 
 <p>
-    <img :src="$withBase('/res/card-xmind.png')" alt="">
+    <img src="/res/res/card-xmind.png" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/card1.png')" alt="">
+    <img src="/res/res/card1.png" alt="">
 </p>
 
 <p>
-    <img :src="$withBase('/res/card2.png')" alt="">
+    <img src="/res/res/card2.png" alt="">
 </p>
 
 
