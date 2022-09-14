@@ -3,8 +3,8 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/favicon.ico' }]
     ],
-    title: '我的计划 * MangoMei',
-    description: '我的计划',
+    title: '日记计划本',
+    description: '记录点滴',
     themeConfig: {
         //logo: '/favicon.ico',
         lastUpdated: '最近更新',
