@@ -6,6 +6,12 @@
     <img src="/res/okr/okr-202209.png" alt="">
 </p>
 
+## 2022-06
+
+<p>
+    <img src="/res/okr/okr-20220605.png" alt="">
+</p>
+
 ## 2022-03
 
 <p>
