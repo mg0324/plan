@@ -12,3 +12,5 @@ echo '上传到txy success'
 #ssh root@master 'docker restart nginx'
 #echo '重启成功'
 #python3 refresh_pages.py
+
+# scp -r res/drawio root@master:/opt/nginx/html/public/drawio
