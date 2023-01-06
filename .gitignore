@@ -1,3 +1,6 @@
 node_modules
 docs/.vuepress/plan
 docs/.vuepress/dist
+.history/
+.idea/
+.workflow

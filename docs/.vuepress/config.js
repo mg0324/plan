@@ -13,6 +13,7 @@ module.exports = {
             {
                 text: '打卡表归档',
                 items: [
+                    { text: '2022年', link: '/zh/play/2022.md' },
                     { text: '2021年', link: '/zh/play/2021.md' },
                     { text: '2020年', link: '/zh/play/2020.md' },
                 ]

@@ -1,5 +1,11 @@
 # okr
 
+## 2022-10
+
+<p>
+    <img src="/res/drawio/okr/10.drawio.png" alt="">
+</p>
+
 ## 2022-09
 
 <p>
