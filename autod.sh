@@ -1,4 +1,3 @@
-. ~/envs/python-mango-env.sh
 rm -rf docs/.vuepress/dist
 rm -rf docs/.vuepress/plan
 yarn build
@@ -13,4 +12,4 @@ echo '上传到txy node success'
 #echo '重启成功'
 #python3 refresh_pages.py
 
-# scp -r res/drawio root@master:/opt/nginx/html/public/drawio
+# scp -r res/drawio root@node:/opt/nginx/html/public/
